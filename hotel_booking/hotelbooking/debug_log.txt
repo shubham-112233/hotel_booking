@@ -1,0 +1,10 @@
+Array
+(
+    [username] => test
+    [email] => abc@gmail.com
+    [mobile_number] => 76543461
+    [room_type] => Luxury Room
+    [price] => 3500.00
+    [hotel_name] => Taj Hotel
+    [city] => Mumbai
+)
